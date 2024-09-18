@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{672258bd-72e9-472f-87a3-f8470631ae3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Lib">
+      <UniqueIdentifier>{14d66981-3f8f-40bb-9136-e383eb106404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Main">
+      <UniqueIdentifier>{c2b59ce8-05fb-4216-8955-2c37e246c05e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Sub">
+      <UniqueIdentifier>{57f555b4-af25-46bd-b4e2-c0961fa1348d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Sub\Binary">
+      <UniqueIdentifier>{3c81b60c-1cae-4bd9-8132-ce0d41ef03be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Sub\Hexa">
+      <UniqueIdentifier>{685aa2af-70a5-4809-9a7d-887dfe681e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Sub\Octal">
+      <UniqueIdentifier>{9b966db5-0479-46b2-8e5c-3076ee0c40c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Sub\Decimal">
+      <UniqueIdentifier>{9e2cedc6-4305-4853-8e4c-a5ea1cf2c5fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Numbering System Converter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenue.h">
+      <Filter>Header Files\Screens\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Screens\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="clsConvertor.h">
+      <Filter>Header Files\Screens\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDecimalConvertorScreen.h">
+      <Filter>Header Files\Screens\Sub\Decimal</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBinaryConvertorScreen.h">
+      <Filter>Header Files\Screens\Sub\Binary</Filter>
+    </ClInclude>
+    <ClInclude Include="clsHexadecimalConvertorScreen.h">
+      <Filter>Header Files\Screens\Sub\Hexa</Filter>
+    </ClInclude>
+    <ClInclude Include="clsOctalConvertorScreen.h">
+      <Filter>Header Files\Screens\Sub\Octal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Numbering System Converter.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

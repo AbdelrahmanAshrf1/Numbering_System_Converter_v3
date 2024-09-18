@@ -1,0 +1,11 @@
+﻿  Numbering System Converter.cpp
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsConvertor.h(152,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsConvertor.h(222,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\clsConvertor.h(306,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Numbering System Converter.vcxproj -> D:\Programming\3)_Projects\2)_OOP_Projects\2)_Numbering_System_Converter_v3\x64\Debug\Numbering System Converter.exe
